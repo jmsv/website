@@ -11,3 +11,4 @@ ehthumbs.db
 .bundle/
 
 vendor/bundle
+Gemfile.lock
