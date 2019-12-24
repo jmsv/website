@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a Computer Science student studying at the University of Birmingham. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Outside of my studies, I support student run hackathons all across the country.
 
-What else do you need?
+Notable mentions:
 
-### my history
+- Organiser for HackTheMidlands 4.0
+- Mentor, Judge, and responsible for the opening/closing ceremonies and presentations for DurHack 2019
+- AV Partner for ManMetHacks 2.0
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Along with that, I've created Hackathons for Schools Association, aimed at providing hackathons for 15-18 year olds.
