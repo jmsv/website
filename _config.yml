@@ -20,7 +20,6 @@ description: Portfolio for Will Russell
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   What I've Worked On:
     - HackTheMidlands: "https://hackthemidlands.com/"
     - Hackathons for Schools Association: "https://hackathonsforschools.com"
