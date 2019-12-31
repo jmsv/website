@@ -8,18 +8,19 @@
   color: #404040;
 }
 
-.experience-container {
+.experience-container, .hackathon-container, .item-container {
   display: grid;
+}
+
+.experience-container {
   grid-template-columns: repeat(2, 1fr);
 }
 
 .hackathon-container {
-  display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
 
 .item-container {
-  display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
 
@@ -86,7 +87,7 @@
 }
 
 @media only screen and (max-width : 600px) {
-  .item-container .experience-container .hackathon-container {
+  .item-container, .experience-container, .hackathon-container {
     grid-template-columns: 1fr;
   }
 
