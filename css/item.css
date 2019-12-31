@@ -1,0 +1,51 @@
+ .item-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.item {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 20px 0;
+
+  .icon {
+    max-width: 20%;
+    object-fit: contain;
+    object-position: 0% 0%;
+    flex: 0 0 auto;
+  }
+  .info {
+    text-align: center;
+    .title {
+      font-size: large;
+      font-style: 900;
+    }
+  
+    .description {
+      font-size: medium;
+    }
+    
+  }
+}
+@media only screen and (max-width : 600px) {
+  .item-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width : 1000px) {
+  .item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    .icon {
+      max-width: 60%;
+    }
+    .info {
+      margin-top: 5px;
+    }
+  }
+}

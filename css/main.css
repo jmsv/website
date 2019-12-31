@@ -2,6 +2,7 @@
 layout: null
 ---
 
+@import "item.css";
 @import url("pygment_highlights.css");
 
 /* --- General --- */

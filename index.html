@@ -5,6 +5,18 @@ subtitle: Computer Science Student and Hackathon Community Builder
 use-site-title: true
 ---
 
+<div class="item-container">
+  {%- for item in site.data.achievements -%}
+  <div class="item">
+    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <div class="info">
+      <p class="title">{{ item.title }}</p>
+      <p class="description">{{ item.description }}</p>
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -59,7 +71,7 @@ use-site-title: true
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
-  <li class="previous">
+  <li class="previous">1
     <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
