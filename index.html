@@ -27,7 +27,7 @@ use-site-title: true
 <div class="item-container">
   {%- for item in site.data.hackathons -%}
   <div class="item">
-    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.event }}">
     <div class="info">
       <p class="title">{{ item.event }}</p>
       <p class="date">{{ item.date }}</p>
@@ -40,10 +40,10 @@ use-site-title: true
   {%- endfor -%}
 </div>
 
-<h2 class="section-title">Volunteering and Community</h2>
+<h2 class="section-title">Tech Community</h2>
 
 <div class="item-container">
-  {%- for item in site.data.volunteering -%}
+  {%- for item in site.data.community -%}
   <div class="item">
     <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
     <div class="info">
@@ -55,9 +55,24 @@ use-site-title: true
   {%- endfor -%}
 </div>
 
-<a href="./CV.pdf">
-  <h2 class="section-title">Download CV</h2>
-</a>
+<h2 class="section-title">Sailing</h2>
+
+<div class="item-container">
+  {%- for item in site.data.sailing -%}
+  <div class="item">
+    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <div class="info">
+      <p class="title">{{ item.title }}</p>
+      <p class="date">{{ item.date }}</p>
+      <p class="description">{{ item.description }}</p>
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
+
+<div class="button-container">
+  <a class="button" href="./CV.pdf">Download CV</a>
+</div>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
