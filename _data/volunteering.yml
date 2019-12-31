@@ -1,19 +1,43 @@
 - title: Maintainer of the UK Hackathon Wiki
   description: Building the UK Hackathon Community, helping smaller hackathons get started.
-  icon: /img/hack-athon-uk.png
+  icon: /img/volunteering/hack-athon-uk.png
 
 - title: Founder of Hackathons for Schools Association
   description: Helping provide more technology opportunites for 15-18 year olds.
-  icon: /img/hfsa.png
+  icon: /img/volunteering/hfsa.png
 
 - title: Director of Safeguarding and Outreach at HackTheMidlands
   description: Trying to get as many people involved, regardless of their background.
-  icon: /img/htm.png
+  icon: /img/hackathons/htm.png
 
 - title: Arkwright Mentor
   description: Working with a talented sixth former, to help them get the most out of the opportunites around them.
-  icon: /img/arkwright.png
+  icon: /img/volunteering/arkwright.png
 
+- title: Member of the Sub Committee for Royal Hackaway v3
+  description: Helping the committee scale their hackathon to one of the largest in the UK.
+  icon: /img/hackathons/royalhackaway.png
+
+- title: Volunteer at Hack Cambridge 101
+  description: Helping run one of the largest hackathons in the UK.
+  icon: /img/volunteering/hackcambridge.png
+
+- title: Audio/Visual Partner at ManMetHacks 2.0
+  description: Powering their opening/closing ceremonies, as well as running their finalist presentations.
+  icon: img/volunteering/manmethacks.png
+
+- title: Mentor, Judge, and AV Volunteer at DurHack 2019
+  description: Helped students with their solve problems, as well judge the science fair at the end of the event. Additionally, I helped run the presentations, and ceremonies at the event.
+  icon: img/volunteering/durhack.png
+
+- title: Mentor at hackSheffield 5
+  description: Helped students tackle problems with their hacks, and generally helped where possible.
+  icon: img/volunteering/hacksheffield.jpg
+  
+- title: Mentor at Hack Manchester Junior 2019
+  description: Helped under 18s come up with ideas, and how to solve problems.
+  icon: img/volunteering/hackmanchester.jpg
+  
 - title: STEM Ambassador
   description: Helping improve the technology opportunites available to under 18s.
-  icon: /img/stem.jpg
+  icon: /img/volunteering/stem.jpg

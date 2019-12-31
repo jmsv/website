@@ -22,7 +22,23 @@ use-site-title: true
   {%- endfor -%}
 </div>
 
+<h2 class="section-title">Hackathons</h2>
 
+<div class="item-container">
+  {%- for item in site.data.hackathons -%}
+  <div class="item">
+    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <div class="info">
+      <p class="title">{{ item.event }}</p>
+      <p class="date">{{ item.date }}</p>
+      <p class="description">Winner of {{ item.prize }}</p>
+      <a class="description" href={{ item.link }}>
+      <p class="description">{{ item.project }}</p>
+      </a>
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
 
 <h2 class="section-title">Volunteering and Community</h2>
 

@@ -1,0 +1,41 @@
+- event: OxfordHack 2019
+  date: November 2019
+  prize: Hackiest Hack
+  project: Willmojis, automatically generating emoji fonts of your friends
+  link: https://devpost.com/software/willmojis
+  icon: img/hackathons/oxfordhack.png
+
+- event: WarwickHACK 2019
+  date: February 2019
+  prize: Best Project
+  project: Talking 2.0, communication with ultrasonic frequencies
+  link: https://devpost.com/software/talking-2-0
+  icon: img/hackathons/warwickhack.jpg
+
+- event: HackSurrey Mk2
+  date: February 2019
+  prize: Guardtime Sponsor Prize
+  project: Hexblock, creating 3D printed models of SHA256 hashes
+  link: https://devpost.com/software/hexblock
+  icon: img/hackathons/hacksurrey.png
+
+- event: Royal Hackaway v2
+  date: February 2019
+  prize: Nexmo Sponsor Prize and Best Audio Hack
+  project: Rap God, custom raps using SMS and phone calls
+  link: https://devpost.com/software/rap-god
+  icon: img/hackathons/royalhackaway.png
+
+- event: AstonHack 2018
+  date: November 2018
+  prize: Best Hack
+  project: Notendo Tunes, a virtual teremin using Nintendo Switch Joy-Cons
+  link: https://devpost.com/software/notendo-tunes
+  icon: img/hackathons/astonhack.png
+
+- event: HackTheMidlands 3.0
+  date: November 2018
+  prize: Best Newbie Hack
+  project: Smart Meal Planner, an Android app to help students waste less food
+  link: https://devpost.com/software/smart-meal-planner
+  icon: img/hackathons/htm.png
