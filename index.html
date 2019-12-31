@@ -48,11 +48,16 @@ use-site-title: true
     <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
     <div class="info">
       <p class="title">{{ item.title }}</p>
+      <p class="date">{{ item.date }}</p>
       <p class="description">{{ item.description }}</p>
     </div>
   </div>
   {%- endfor -%}
 </div>
+
+<a href="./CV.pdf">
+  <h2 class="section-title">Download CV</h2>
+</a>
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
