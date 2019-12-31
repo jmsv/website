@@ -1,0 +1,14 @@
+- title: Studying BSc Computer Science at the University of Birmingham
+  date: 2018 - 2021 (3 years)
+  description1: "On track for a 2:1, graduating in 2021. "
+  description2: "2:1 (67%) in First Year."
+  description3: "90% in Data Science for Everyone, 80% in Data Structures and Algorithms, 78% in Programming in Java."
+  icon: /img/uob.png
+
+- title: Platforms Hardware Intern at Arm
+  date: Summer 2019 - 3 months
+  description1: "Creating Python drivers for the Arm MPS3 FPGA Prototyping Board memory chip controller, and lab instruments for automated testing."
+  description2: "Setting up the Platforms Hardware Jenkins CI/CD server for testing embedded boards with Windows and Linux."
+  description3: "Lead of the winning team of the Intern Challenge."
+  icon: /img/arm.jpg
+
