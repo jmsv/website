@@ -14,7 +14,7 @@ use-site-title: true
 <div class="experience-container">
   {%- for item in site.data.experience -%}
   <div class="item">
-    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <img class="icon" src="/img/experience/{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
     <div class="info">
       <p class="title">{{ item.title }}</p>
       <p class="date">{{ item.date }}</p>
@@ -31,7 +31,7 @@ use-site-title: true
 <div class="hackathon-container">
   {%- for item in site.data.hackathons -%}
   <div class="item">
-    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.event }}">
+    <img class="icon" src="img/hackathons/{{ item.icon | relative_url }}" alt="picture of {{ item.event }}">
     <div class="info">
       <p class="title">{{ item.event }}</p>
       <p class="date">{{ item.date }}</p>
@@ -50,7 +50,7 @@ use-site-title: true
 <div class="item-container">
   {%- for item in site.data.community -%}
   <div class="item">
-    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <img class="icon" src="/img/community/{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
     <div class="info">
       <p class="title">{{ item.title }}</p>
       <p class="date">{{ item.date }}</p>
@@ -65,7 +65,7 @@ use-site-title: true
 <div class="item-container">
   {%- for item in site.data.sailing -%}
   <div class="item">
-    <img class="icon" src="{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <img class="icon" src="/img/sailing{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
     <div class="info">
       <p class="title">{{ item.title }}</p>
       <p class="date">{{ item.date }}</p>

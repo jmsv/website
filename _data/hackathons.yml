@@ -4,7 +4,7 @@
   project: Willmojis
   description: Automatically generating emoji True Type fonts of your friends facial expressions.
   link: https://devpost.com/software/willmojis
-  icon: img/hackathons/oxfordhack.png
+  icon: oxfordhack.png
 
 - event: WarwickHACK 2019
   date: February 2019
@@ -12,7 +12,7 @@
   project: Talking 2.0
   description: Chat app sending messages using ultrasonic frequencies. 
   link: https://devpost.com/software/talking-2-0
-  icon: img/hackathons/warwickhack.jpg
+  icon: warwickhack.jpg
 
 - event: HackSurrey Mk2
   date: February 2019
@@ -20,7 +20,7 @@
   project: Hexblock
   description: 3D printed models of SHA256 hashes
   link: https://devpost.com/software/hexblock
-  icon: img/hackathons/hacksurrey.png
+  icon: hacksurrey.png
 
 - event: Royal Hackaway v2
   date: February 2019
@@ -28,7 +28,7 @@
   project: Rap God
   description: Custom raps using SMS and phone calls.
   link: https://devpost.com/software/rap-god
-  icon: img/hackathons/royalhackaway.png
+  icon: royalhackaway.png
 
 - event: AstonHack 2018
   date: November 2018
@@ -36,7 +36,7 @@
   project: Notendo Tunes
   description: A virtual teremin using Nintendo Switch Joy-Cons.
   link: https://devpost.com/software/notendo-tunes
-  icon: img/hackathons/astonhack.png
+  icon: astonhack.png
 
 - event: HackTheMidlands 3.0
   date: November 2018
@@ -44,4 +44,4 @@
   project: Smart Meal Planner 
   description: An Android app to help students waste less food.
   link: https://devpost.com/software/smart-meal-planner
-  icon: img/hackathons/htm.png
+  icon: htm.png
