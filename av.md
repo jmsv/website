@@ -5,7 +5,11 @@ title: Hackathon Audio/Visual Partner
 
 I love helping hackathons around the UK to provide the best experience to hackers. I love adding a professional touch to your opening/closing ceremony + demos, building hype among hackers, without making beginners etc, feel intimidated.  
 
-### Equipment
+# Get in contact!
+
+Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet me](https://twitter.com/wrussell1999) if you're interested in having me at your event!
+
+## Equipment
 
 | Name | Type | Description | Specs |
 |------|------|-------------|-------|
@@ -20,7 +24,7 @@ I love helping hackathons around the UK to provide the best experience to hacker
 | Phone used for count down during presentations | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | _Work in progress_ |
 | HDMI Cables | Video | A range of cables, varying in length | Most are 2 metres long, with 1x 4 metre cable, and 2x 7 metre cables |
 
-#### Display dongle box
+### Display dongle box
 
 * 2x HDMI to USB C dongles (+ 3x USB A)
 * HDMI to USB C cable (1.8 m)
@@ -38,12 +42,6 @@ I love helping hackathons around the UK to provide the best experience to hacker
 * 3x USB C to USB A adapters (2 white ones, 1 black)
 
 _**Note:** Please specifically request the optional equipment if you want it_
-
-## Get in contact!
-
-Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet me](https://twitter.com/wrussell1999) if you're interested in having me at your event!
-
---- 
 
 ## Past Events
 
