@@ -8,11 +8,11 @@
   color: #404040;
 }
 
-.experience-container, .hackathon-container, .item-container {
+.experience-container, .hackathon-container, .item-container, .av-container {
   display: grid;
 }
 
-.experience-container {
+.experience-container, .av-container {
   grid-template-columns: repeat(2, 1fr);
 }
 
