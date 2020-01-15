@@ -13,7 +13,7 @@ Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet 
 
 | Name | Type | Description | Specs |
 |------|------|-------------|-------|
-| [Blackmagic ATEM Mini](https://www.blackmagicdesign.com/uk/products/atemmini) | Video + Audio | Production Switcher, allowing to fade between different HDMI inputs | 4x HDMI Inputs, 2x 3.5mm Inputs |
+| [Blackmagic ATEM Mini](https://www.blackmagicdesign.com/uk/products/atemmini) | Video + Audio | Production Switcher, allowing to fade between different HDMI inputs | HDMI 1080p60  Out, 4x HDMI Inputs, 2x 3.5mm Inputs, USB C, Ethernet |
 | [Korg nanoKONTROL 2](https://www.korg.com/uk/products/computergear/nanokontrol2/) | Audio | MIDI Controller for adjusting audio levels for HDMI feeds, and 3.5 mm feeds. Also used for trigging cues in QLab | 8 sliders, lots of programmable buttons |
 | Portable WiFi Router | Audio + Video | Allows for ATEM Software Control to be used from somewhere else in the room | Micro-USB powered, with 1 Ethernet port used for the ATEM Mini |
 | Logitech Bluetooth Audio Adapter | Audio | Used to connect QLab to the ATEM Mini, when wired isn't an option | 3.5 mm or RCA outputs. 15 metres of line of sight range | 
@@ -21,7 +21,7 @@ Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet 
 | USB Clicker | Video | Given to speakers for changing slides | USB A dongle |
 | Display dongle box | Video | Hard shell case that contains almost every display adapter you could possibly think of | See below |
 | Tripod and phone mount | Video | Useful for connecting a phone that supports HDMI out, for hardware demos | Fits any phone |
-| Phone used for count down during presentations | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | _Work in progress_ |
+| [Phone used for count down during presentations](https://github.com/wrussell1999/hackathon-demo-timer-android) | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | _Work in progress_ |
 | HDMI Cables | Video | A range of cables, varying in length | Most are 2 metres long, with 1x 4 metre cable, and 2x 7 metre cables |
 
 ### Display dongle box
