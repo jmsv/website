@@ -13,6 +13,11 @@
   description: Powering their opening/closing ceremonies, as well as running their finalist presentations.
   icon: manmethacks.png
 
+- title: Introduction to Android Development Workshop
+  date: January 2020
+  description: Workshop that runs through the basics of Android Development, and Kotlin ran at ManMetHacks 2.0.
+  icon: manmethacks.png
+
 - title: Volunteer at Hack Cambridge 101
   date: January 2020
   description: Helping run one of the largest hackathons in the UK.
