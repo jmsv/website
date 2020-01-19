@@ -3,7 +3,33 @@ layout: page
 title: Hackathon Audio/Visual Partner
 ---
 
-I love helping hackathons around the UK to provide the best experience to hackers. I love adding a professional touch to your opening/closing ceremony + demos, building hype among hackers, without making beginners etc, feel intimidated.  
+I love helping hackathons around the UK to provide the best experience to hackers. I love adding a professional touch to your opening/closing ceremony + demos, building hype among hackers, without making beginners etc, feel intimidated.
+
+I can help you with your:
+
+* Slides
+    * Get all the sponsor slides together
+    * Provide a clicker
+* Background music
+    * Opening ceremony
+    * Hack spacs
+    * Finalist demos
+    * Closing ceremony
+* Workshops/Talks
+* Opening ceremony
+    * Switch between different laptops
+    * Background video
+    * Background music/cues
+* Finalist demos
+    * Keeping it on time
+    * Providing camera, up to 4 different video inputs, and audio
+* Awards/Prizes
+    * Audio cues
+    * Video mixing
+* Closing ceremony
+    * Audio cues
+    * Video mixing
+ 
 
 # Get in contact!
 
