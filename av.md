@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon Audio/Visual Partner
+title: Hackathon Audio/Visual Help
 ---
 
 I love helping hackathons around the UK to provide the best experience to hackers. I love adding a professional touch to your opening/closing ceremony + demos, building hype among hackers, without making beginners etc, feel intimidated.
@@ -12,7 +12,7 @@ I can help you with your:
     * Provide a clicker
 * Background music
     * Opening ceremony
-    * Hack spacs
+    * Hack space
     * Finalist demos
     * Closing ceremony
 * Workshops/Talks
@@ -21,16 +21,20 @@ I can help you with your:
     * Background video
     * Background music/cues
 * Finalist demos
-    * Keeping it on time
-    * Providing camera, up to 4 different video inputs, and audio
+    * Keeping it on schedule
+    * Providing camera
+    * Up to 4 different video inputs, with audio.
+    * Change over audio cues / background music\
+    * Demo Countdown
 * Awards/Prizes
     * Audio cues
     * Video mixing
+    * Slide help
 * Closing ceremony
     * Audio cues
     * Video mixing
+    * Slide help
  
-
 # Get in contact!
 
 Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet me](https://twitter.com/wrussell1999) if you're interested in having me at your event!
@@ -78,7 +82,7 @@ _**Note:** Please specifically request the optional equipment if you want it_
 | Event | Date | Role | Details |
 |-------|------|------|---------|
 | [ManMetHacks 2.0](https://manmethacks.com) | January 2020 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony and demos, including creating assets used for the event. |
-| [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues and background music for finalist presentations and awards |
+| [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues, with MIDI triggers, and background music for finalist presentations and awards. |
 | [DurHack 2019](https://durhack.com) | November 2019 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony, and demos. Also created their opening schedule to ensure it ran on time. |
 | [OxfordHack 2019](https://oxfordhack.co.uk) | November 2019 | Helped run demos | Provided the event with the dongle box. Helped switch teams during the presentations, to make the event run on time. |
 | [HackTheMidlands 4.0](https://hackthemidlands.com) | October 2019 | A/V Lead | Responsible for the audio, video, and lighting in the auditorium and audio in the hacking space and workshop areas. |
