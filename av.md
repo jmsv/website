@@ -73,10 +73,11 @@ _**Note:** Please specifically request the optional equipment if you want it_
 
 | Event | Date | Role | Details |
 |-------|------|------|---------|
-| [HackTheMidlands 4.0](https://hackthemidlands.com) | October 2019 | A/V Lead | Responsible for the audio, video, and lighting in the auditorium and audio in the hacking space and workshop areas. |
-| [OxfordHack 2019](https://oxfordhack.co.uk) | November 2019 | Helped run demos | Provided the event with the dongle box. Helped switch teams during the presentations, to make the event run on time. |
+| [ManMetHacks 2.0](https://manmethacks.com) | January 2020 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony and demos, including creating assets used for the event. |
+| [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues and background music for finalist presentations and awards |
 | [DurHack 2019](https://durhack.com) | November 2019 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony, and demos. Also created their opening schedule to ensure it ran on time. |
-| [ManMetHacks 2.0](https://manmethacks.com) | January 2019 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony, including creating assets used for the event. |
+| [OxfordHack 2019](https://oxfordhack.co.uk) | November 2019 | Helped run demos | Provided the event with the dongle box. Helped switch teams during the presentations, to make the event run on time. |
+| [HackTheMidlands 4.0](https://hackthemidlands.com) | October 2019 | A/V Lead | Responsible for the audio, video, and lighting in the auditorium and audio in the hacking space and workshop areas. |
 
 ## Testimonials
 
