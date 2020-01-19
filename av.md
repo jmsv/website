@@ -49,23 +49,27 @@ Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet 
 | Tripod and phone mount | Video | Useful for connecting a phone that supports HDMI out, for hardware demos | Fits any phone |
 | [Tablet used for count down during presentations](https://github.com/wrussell1999/hackathon-demo-timer-android) | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | Nexus 9 connected to iPad Pro _Work in progress_ |
 | HDMI Cables | Video | A range of cables, varying in length | Most are 2 metres long, with 1x 4 metre cable, and 2x 7 metre cables |
+| Spotify Playlist | Audio | A mixture of chill and hype music to keep the hackers engaged | Artists include Odesza, Imagine Dragons, Griffyn, Major Lazor, DROELOE, AllttA, and more! |
 
 ### Display dongle box
 
 * 2x HDMI to USB C dongles (+ 3x USB A)
-* HDMI to USB C cable (1.8 m)
 * Micro HDMI to HDMI dongle
-* Micro HDMI to HDMI cable (0.3 m) **(on request)**
 * DisplayPort to HDMI dongle
-* DisplayPort to HDMI cable (1.8 m) **(on request)**
 * Mini DisplayPort to HDMI dongle
 * VGA to HDMI dongle
 * DVI to HDMI dongle
 * HDMI audio extractor
-* 3.5mm auxiliary cable (0.3 m)
-* 3 way HDMI switch **(on request)**
-* 2 way HDMI switch **(on request)**
 * 3x USB C to USB A adapters (2 white ones, 1 black)
+* 3.5mm auxiliary cable (0.3 m)
+* VGA to VGA cable (~1 m)
+
+_**On request only**_
+* HDMI to USB C cable (1.8 m)
+* Micro HDMI to HDMI cable (0.3 m)
+* 3 way HDMI switch
+* 2 way HDMI switch
+* DisplayPort to HDMI cable (1.8 m)
 
 _**Note:** Please specifically request the optional equipment if you want it_
 
