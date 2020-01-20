@@ -3,45 +3,53 @@
   event: Developer Student Clubs
   location: University of Birmingham
   size: 30 people
+  icon: dsc.png
 
 - title: Introduction to Android Development in Kotlin Workshop
   date: January 2020
   event: ManMetHacks 2.0
   location: Manchester
   size: 50 people
+  icon: manmethacks.png
 
 - title: Git Workshop
   date: January 2020
   event: Developer Student Clubs
   location: University of Birmingham
   size: 30 people
+  icon: dsc.png
 
 - title: Git Workshop
   date: November 2019
   event: Developer Student Clubs
   location: University of Birmingham
   size: 30 people
+  icon: dsc.png
 
 - title: Discord + Reddit Bot Workshop 
   date: October 2019
   event: "Local Hack Day: Learn"
   location: University of Birmingham
   size: 50 people
+  icon: lhd-learn.png
 
 - title: Discord Bot and Pillow Workshop
   date: September 2019
   event: "HackTheMidlands School Outreach Initiative"
   location: "University of Birmingham School"
   size: 30 people
+  icon: htm.png
 
 - title: What is a hackathon?
   date: September 2019
   event: "HackTheMidlands School Outreach Initiative"
   location: "Stratton Upper School"
   size: 100+ people
+  icon: htm.png
 
 - title: What is a hackathon?
   date: September 2019
   event: "HackTheMidlands School Outreach Initiative"
   location: "University of Birmingham School"
   size: 30 people
+  icon: htm.png

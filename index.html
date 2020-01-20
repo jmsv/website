@@ -60,6 +60,22 @@ use-site-title: true
   {%- endfor -%}
 </div>
 
+<h2 class="section-title">Workshops</h2>
+
+<div class="item-container">
+  {%- for item in site.data.workshops -%}
+  <div class="item">
+    <img class="icon" src="/img/workshops/{{ item.icon | relative_url }}" alt="picture of {{ item.title }}">
+    <div class="info">
+      <p class="title">{{ item.title }}</p>
+      <p class="date">{{ item.date }}</p>
+      <p class="description">{{ item.event }}</p>
+      <p class="description">{{ item.size }}</p>
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
+
 <h2 class="section-title">Sailing</h2>
 
 <div class="item-container">
