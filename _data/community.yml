@@ -13,11 +13,6 @@
   description: Powering their opening/closing ceremonies, as well as running their finalist presentations.
   icon: manmethacks.png
 
-- title: Introduction to Android Development Workshop
-  date: January 2020
-  description: Workshop that runs through the basics of Android Development, and Kotlin ran at ManMetHacks 2.0.
-  icon: manmethacks.png
-
 - title: Volunteer/Mentor at Hack Cambridge 101
   date: January 2020
   description: Helping run one of the largest hackathons in the UK, by solving hacker's problems with Andoird apps, advising the organisers during the event, and running audio cues and music during the demos and awards.
@@ -68,22 +63,22 @@
   description: Helping improve the technology opportunities inside schools around the country.
   icon: hfsa.png
 
-- title: Assist running workshops at the University of Birmingham Developer Student Clubs
-  date: October 2019 to present
-  description: Help run workshops for 20-30 students, on a variety of topics such as Git, Docker, and mobile development.
-  icon: dsc.png
-
-- title: "Discord Bot workshop at Local Hack Day: Learn"
-  date: October 2019
-  description: I led a workshop at the University of Birmingham in front of 50 people about building their own Discord Bots in Python.
-  icon: lhd-learn.png
-  
 - title: STEM Ambassador
   date: August 2019
   description: Helping improve the technology opportunities available to under 18s.
   icon: stem.jpg
 
+- title: Work Experience at Arm
+  date: July 2017
+  description: Developed a driver that controlled a temperature chamber using Modbus over Serial.
+  icon: arm.jpg
+
 - title: Audio/Visual Technician at Levitation Events
   date: November 2015 to present
   description: Working on rigging, and operating AV, primarily lighting at various events.
   icon: levitationevents.png
+
+- title: Work Experience at Arm
+  date: July 2015
+  description: Developed a GPS Compass device using the mbed platform.
+  icon: arm.jpg
