@@ -69,8 +69,10 @@ use-site-title: true
     <div class="info">
       <p class="title">{{ item.title }}</p>
       <p class="date">{{ item.date }}</p>
-      <p class="description">{{ item.event }}</p>
-      <p class="description">{{ item.size }}</p>
+      <p class="date">-</p>
+      <p class="location">{{ item.event }}</p>
+      <p class="date">{{ item.location }}</p>
+      <p class="date">{{ item.size }}</p>
     </div>
   </div>
   {%- endfor -%}

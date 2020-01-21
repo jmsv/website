@@ -68,10 +68,14 @@
       font-weight: 800;
     }
 
-    .date {
+    .date, .location {
       font-size: small;
       text-align: center;
       color: #404040;
+    }
+
+    .location {
+      font-weight: 600;
     }
   
     .description {
