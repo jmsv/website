@@ -97,6 +97,18 @@ _**Note:** Please specifically request the optional equipment if you want it_
 >
 > — Robbie Jakob-Whitworth, Lead Organiser, DurHack 2017–2019
 
+**ManMetHacks 2020**
+
+> Will's constant devotion to our event and the AV solutions involved were far more than anyone could have expected 
+> for a volunteer. He created animated assets that adhered to the branding guidelines and looked stunning and really added 
+> to the experience of opening ceremony. He also helped form the basis of our opening and closing ceremony slides and made 
+> doing finalist presentations a breeze due to picture-in-picture really helping for hardware hacks. 
+>
+> I first met Will at HackTheMidlands 4.0 and after seeing what an impressive job he and the rest of Levitation Events did 
+> with the sound, lighting and visuals, I almost begged him to be a part of ManMetHacks. He was a perfect addition to the team > and the event couldn't have run smoother if we had tried thanks to his dedication and hard work. 
+> 
+> — Tom Misson, Organiser,  ManMetHacks 2020
+
 ## Pictures
 
 <div class="av-container">
