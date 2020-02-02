@@ -81,6 +81,7 @@ _**Note:** Please specifically request the optional equipment if you want it_
 
 | Event | Date | Role | Details |
 |-------|------|------|---------|
+| [Royal Hackaway v3](https://royalhackaway.com/hackawayv3) | February 2020 | A/V Volunteer | Ran all 22 of their demos in their auditorium, along with awards with background music, graphics, and QLab cues. In addition to this, I created their mini event and award slides. |  
 | [ManMetHacks 2.0](https://manmethacks.com) | January 2020 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony and demos, including creating assets used for the event. |
 | [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues, with MIDI triggers, and background music for finalist presentations and awards. |
 | [DurHack 2019](https://durhack.com) | November 2019 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony, and demos. Also created their opening schedule to ensure it ran on time. |
