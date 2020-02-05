@@ -1,5 +1,12 @@
+- title: Git Workshop
+  date: Febraury 2020
+  event: Royal Hackaway v3
+  location: Royal Holloway, University of London
+  size: 10 people
+  icon: royalhackaway.png
+
 - title: Introduction to Android Development in Java Workshop
-  date: January 2020
+  date: Febraury 2020
   event: Developer Student Clubs
   location: University of Birmingham
   size: 30 people
@@ -8,7 +15,7 @@
 - title: Introduction to Android Development in Kotlin Workshop
   date: January 2020
   event: ManMetHacks 2.0
-  location: Manchester
+  location: Manchester Metropolitan University
   size: 50 people
   icon: mmh.png
 
@@ -40,14 +47,14 @@
   size: 30 people
   icon: htm.png
 
-- title: What is a hackathon? Talk
+- title: What is a Hackathon? Talk
   date: September 2019
   event: "HackTheMidlands School Outreach Initiative"
   location: "Stratton Upper School"
   size: 100+ people
   icon: htm.png
 
-- title: What is a hackathon? Talks
+- title: What is a Hackathon? Talks
   date: September 2019
   event: "HackTheMidlands School Outreach Initiative"
   location: "University of Birmingham School"
