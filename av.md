@@ -48,6 +48,7 @@ Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet 
 | Portable WiFi Router | Audio + Video | Allows for ATEM Software Control to be used from somewhere else in the room | Micro-USB powered, with 1 Ethernet port used for the ATEM Mini |
 | Logitech Bluetooth Audio Adapter | Audio | Used to connect QLab to the ATEM Mini, when wired isn't an option | 3.5 mm or RCA outputs. 15 metres of line of sight range | 
 | [QLab 4](https://qlab.app/) workspace | Video + Audio | Set up with audio cues for when speakers come on stage, demos are being setup, or prizes are announced. Background video can also be put into QLab | 8 background tracks for demos, with 8 tracks for prizes and speakers |
+| Shure Lav Mic and receiver | Audio | Can be used for main speaker during opening ceremonies. | CVL, BLX1, and BLX4 |
 | USB Clicker | Video | Given to speakers for changing slides | USB A dongle |
 | Display dongle box | Video | Hard shell case that contains almost every display adapter you could possibly think of | See below |
 | Tripod and phone mount | Video | Useful for connecting a phone that supports HDMI out, for hardware demos | Fits any phone |
