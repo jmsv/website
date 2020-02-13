@@ -2,7 +2,7 @@
 layout: page
 title: Demos for CovHack2020
 ---
-Every demo will get 3 minutes, with a countdown displayed on a screen in front of you. This will flash in the last 10 seconds of your demo, giving you a chance to wrap it up!
+Every demo will get 3 minutes, with a countdown displayed on a screen in front of you. This will flash in the last 10 seconds of your demo, giving you a chance to wrap up your demo!
 
 
 ## Audio and Video Information
