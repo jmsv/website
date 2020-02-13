@@ -11,14 +11,20 @@ When all the hackers are sleep deprived, the last thing they want to do is sit i
 
 As a team is presenting, another team is already being prepped. This means the change over is very small (less than a minute). 
 
-Here's a rough order of what each demo involves:
+This is how you would run 3 demos:
 
-1. Getting the next team down (Announcements)
-2. Prepping the next team (A/V)
-3. Connecting laptops / setting up cameras (A/V)
-4. Controlling the A/V (A/V)
-5. Controlling the countdown (A/V)
-6. Swapping the team fot the next team (A/V)
+| Order | Team 1 (Previous Team) | Team 2 (Current Team) | Team 3 (Next Team) |  Role |
+|-------|--------------|-------------|-----|------|
+| 1 | Call down team | N/A | N/A |  Announcements |
+| 2 | Prep team | N/A  | N/A | A/V |
+| 3 | Connect laptop / Set up camera feeds | Call down team  | N/A | A/V + Announcements |
+| 4 | Start countdown | Prep team | N/A | Timings + A/V |
+| 5 | Hand out "I Demoed" stickers | Connect laptop / Set up camera feeds | Call down team | Stickers + A/V + Announcements |
+| 6 | N/A | Start countdown | Prep team | Announcements + Timings |
+| 7 | N/A | Hand out "I Demoed" stickers | Connect laptop / Set up camera feeds | Stickers + A/V |
+| 8 | N/A | N/A | Start countdown | Timings |
+| 9 | N/A | N/A | Hand out "I Demoed stickers | Stickers | 
+
 
 ## Roles
 
@@ -27,9 +33,9 @@ There are quite a few key roles to make this run smoothly. These can sometimes b
 1. Announcements
 2. A/V
 3. Timings
-4. Handing out stickers
+4. Stickers
 
-Announcements, Timings, and Handing out stickers only need 1 person each, but it is recommended that you have 2-3 people helping with A/V.
+Announcements, Timings, and Stickers only need 1 person each, but it is recommended that you have 2-3 people helping with A/V.
 
 ### Announcements
 
