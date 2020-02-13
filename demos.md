@@ -5,10 +5,20 @@ title: How to run Hackathon Demos 101
 
 Live demos can be quite time consuming. There's a lot of components to them, which if not organised properly can cause delays. 
 
+When all the hackers are sleep deprived, the last thing they want to do is sit in a room for 2, 3, or even 4 hours. Here's my guide on how to make your demos smoother, more professional, and more engaging for your audience!
 
 ## Overview
 
 As a team is presenting, another team is already being prepped. This means the change over is very small (less than a minute). 
+
+Here's a rough order of what each demo involves:
+
+1. Getting the next team down (Announcements)
+2. Prepping the next team (A/V)
+3. Connecting laptops / setting up cameras (A/V)
+4. Controlling the A/V (A/V)
+5. Controlling the countdown (A/V)
+6. Swapping the team fot the next team (A/V)
 
 ## Roles
 
@@ -17,24 +27,47 @@ There are quite a few key roles to make this run smoothly. These can sometimes b
 1. Announcements
 2. A/V
 3. Timings
+4. Handing out stickers
+
+Announcements, Timings, and Handing out stickers only need 1 person each, but it is recommended that you have 2-3 people helping with A/V.
 
 ### Announcements
 
 Someone needs to have the running order (list of demos), and be ready to call them down on a microphone as soon as current team has finished and are starting to pick up their stuff.
 
+Delay can happen if this person is trying to do other things at the same time!
+
 ### Audio / Visual (A/V)
 
-Someone needs to find out what the team is actually demoing, every demo is different!
+Someone needs to find out what the team is actually demoing, every demo is different! Make sure to talk to the team calmly, because they're properly quite nervous. Reassure them that you're going to sort out their demo.
 
-Find out what they would like to do, and tell them how you'll do it. This will be discussed in further detail in the "Components" section.
+If they want to demo hardware, make sure to plug it in as soon as possible. Smart speakers and Raspberry Pis can take a few minutes to power on and connect to WiFi. If there's a few of these, you can connect them before the demos even start and leave them at the front.
 
-A/V can be as simple as connecting their laptop to the projector.
+Find out what they would like to do, and tell them how you'll do it. This means:
+
+- Getting the right display dongle for their laptop
+- Connecting their laptop to the projector
+- Helping them mirror their displays (this is crucial!)
+
+A/V can be as simple as connecting their laptop to the projector or pointing a camera at the demo. If your demo room (probably a lecture theatre or auditorium) has microphones, make sure to give your team one as they may not be use to talking to an audience in a large room.
+
+#### Upping the quality
 
 You can make your team change over smoother / more professional by using a production switcher, like [this](https://www.blackmagicdesign.com/uk/products/atemmini), or capture card. This allows you to:
+
 - Add background music
 - Display something between demos (Event logo, or video)
 - Switch between different video feeds quickly
 - Picture in picture (useful for hardware hacks, or hacks that communicate between 2 devices)
+
+This is where multiple people come in handy. Your A/V now needs an operator to control what video and audio goes out to the audience. Without an operator, the transitions will be clunky making the equipment some what pointless. The equipment only helps if used properly.
+
+You can assign people like this:
+
+- Someone controlling the A/V (or even 2 people!)
+  - Audio (Background music, demo audio, microphone audio)
+  - Video (Switching HDMI feeds, display background graphics, picture in picture)
+- Someone connecting up the team
 
 If you want to make your demos more professional, look at how [I can help](/av)!
 
@@ -49,13 +82,22 @@ It can also be controlling a digital countdown that is displayed in front of the
 - Stage Countdown Timers (controlled with a remote)
 - Hackathons Demo Countdown app (controlled via a web page)
 
+It can be quite helpful to have the countdown in front of both the team presenting and the judges, especially if there's questions afterwards.
+
 It's important that the timings are sharp, as this can add a lot of delay to the schedule.
 
-## Components
+This role can be combined with the announcement or A/V role, but don't try and get someone to do too much.
 
-1. Getting the next team down
-2. Prepping the next team
-3. Connecting laptops / setting up cameras
-4. Controlling the A/V
-5. Controlling the countdown
-6. Swapping the team fot the next team
+### Handing out stickers
+
+Have someone positioned near the front who can give each team their "I Demoed" stickers!
+
+This can be combined with A/V or timing as they will most likely be at the front too.
+
+---
+
+## Now you're a pro?
+
+Never thought demos could get so complicated? It's okay, I didn't either.
+
+It takes a bit of practice to nail the timings. Feel free to [reach out](https://twitter.com/wrussell1999) if you have any questions!
