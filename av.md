@@ -16,10 +16,13 @@ I can help you with your:
     * Finalist demos
     * Closing ceremony
 * Workshops/Talks
+    * Switch between different laptops
+    * Hand held microphones
 * Opening ceremony
     * Switch between different laptops
     * Background video
     * Background music/cues
+    * Hand held microphones
 * Finalist demos
     * Keeping it on schedule
     * Providing camera
@@ -33,32 +36,28 @@ I can help you with your:
 * Closing ceremony
     * Audio cues
     * Video mixing
+    * Hand held microphones
     * Slide help
  
 # Get in contact!
 
-Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet me](https://twitter.com/wrussell1999) if you're interested in having me at your event!
+Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet me](https://twitter.com/wrussell1999) if you'd like a quote!
 
 ## Equipment
 
 | Name | Type | Description | Specs |
 |------|------|-------------|-------|
-| [Blackmagic ATEM Mini](https://www.blackmagicdesign.com/uk/products/atemmini) | Video + Audio | Production Switcher, allowing to fade between different HDMI inputs | HDMI 1080p60  Out, 4x HDMI Inputs, 2x 3.5mm Inputs, USB C, Ethernet |
-| [Korg nanoKONTROL 2](https://www.korg.com/uk/products/computergear/nanokontrol2/) | Audio | MIDI Controller for adjusting audio levels for HDMI feeds, and 3.5 mm feeds. Also used for trigging cues in QLab | 8 sliders, lots of programmable buttons |
-| Portable WiFi Router | Audio + Video | Allows for ATEM Software Control to be used from somewhere else in the room | Micro-USB powered, with 1 Ethernet port used for the ATEM Mini |
-| Logitech Bluetooth Audio Adapter | Audio | Used to connect QLab to the ATEM Mini, when wired isn't an option | 3.5 mm or RCA outputs. 15 metres of line of sight range | 
-| [QLab 4](https://qlab.app/) workspace | Video + Audio | Set up with audio cues for when speakers come on stage, demos are being setup, or prizes are announced. Background video can also be put into QLab | 8 background tracks for demos, with 8 tracks for prizes and speakers |
-| Shure Lav Mic and receiver | Audio | Can be used for main speaker during opening ceremonies | CVL, BLX1, and BLX4 |
+| [Blackmagic ATEM Mini](https://www.blackmagicdesign.com/uk/products/atemmini) | Video + Audio | Production Switcher, allowing to fade between different HDMI inputs, as well as picture in picture | HDMI 1080p60  Out, 4x HDMI Inputs, 2x 3.5mm Inputs, USB C, Ethernet |
+| Wireless Lav Microphone and receiver | Audio | Can be used for main speaker during opening ceremonies | CVL, BLX1, and BLX4 |
+| x2 Wireless Hand Held Microphone and receiver | Audio | Used for opening talks and demos | 
 | USB Clicker | Video | Given to speakers for changing slides | USB A dongle |
 | Display dongle box | Video | Hard shell case that contains almost every display adapter you could possibly think of | See below |
-| Tripod and phone mount | Video | Useful for connecting a phone that supports HDMI out, for hardware demos | Fits any phone |
-| [Tablet used for count down during presentations](https://github.com/wrussell1999/hackathon-demo-timer-android) | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | Nexus 9 connected to iPad Pro _Work in progress_ |
-| HDMI Cables | Video | A range of cables, varying in length | Most are 2 metres long, with 1x 4 metre cable, and 2x 7 metre cables |
-| Spotify Playlist | Audio | A mixture of chill and hype music to keep the hackers engaged | Artists include Odesza, Imagine Dragons, Griffyn, Major Lazor, DROELOE, AllttA, and more! |
+| Camera + Tripod | Video | Camera feed for hardware demos | Fits any phone |
+| [Remote Countdown Clock](https://github.com/wrussell1999/hackathon-demo-countdown-android) | Video | Remotely control a countdown displayed on an Android phone, helping to speed up your demos | Android Device |
 
 ### Display dongle box
 
-* 2x HDMI to USB C dongles (+ 3x USB A)
+* 3x HDMI to USB C dongles
 * Micro HDMI to HDMI dongle
 * DisplayPort to HDMI dongle
 * Mini DisplayPort to HDMI dongle
@@ -78,7 +77,7 @@ _**On request only**_
 
 _**Note:** Please specifically request the optional equipment if you want it_
 
-## Past Events
+## Events I've worked with
 
 | Event | Date | Role | Details |
 |-------|------|------|---------|
@@ -87,7 +86,7 @@ _**Note:** Please specifically request the optional equipment if you want it_
 | [ManMetHacks 2.0](https://manmethacks.com) | January 2020 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony and demos, including creating assets used for the event. |
 | [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues, with MIDI triggers, and background music for finalist presentations and awards. |
 | [DurHack 2019](https://durhack.com) | November 2019 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony, and demos. Also created their opening schedule to ensure it ran on time. |
-| [OxfordHack 2019](https://oxfordhack.co.uk) | November 2019 | Helped run demos | Provided the event with the dongle box. Helped switch teams during the presentations, to make the event run on time. |
+| [OxfordHack 2019](https://oxfordhack.co.uk) | November 2019 | A/V Volunteer | Provided the event with the dongle box. Helped switch teams during the presentations, to make the event run on time. |
 | [HackTheMidlands 4.0](https://hackthemidlands.com) | October 2019 | A/V Lead | Responsible for the audio, video, and lighting in the auditorium and audio in the hacking space and workshop areas. |
 
 ## Testimonials
