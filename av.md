@@ -49,7 +49,8 @@ Email me at **[will@will-russell.com](mailto:will@will-russell.com)** or [tweet 
 |------|------|-------------|-------|
 | [Blackmagic ATEM Mini](https://www.blackmagicdesign.com/uk/products/atemmini) | Video + Audio | Production Switcher, allowing to fade between different HDMI inputs, as well as picture in picture | HDMI 1080p60  Out, 4x HDMI Inputs, 2x 3.5mm Inputs, USB C, Ethernet |
 | Wireless Lav Microphone and receiver | Audio | Can be used for main speaker during opening ceremonies | CVL, BLX1, and BLX4 |
-| x2 Wireless Hand Held Microphone and receiver | Audio | Used for opening talks and demos | 
+| x2 Wireless Hand Held Microphone and receiver | Audio | Used for opening talks and demos |
+| Audio Mixer | Audio | Mixing the 3 microphones | 2 XLR inputs, 2 quarter inch jacks | 
 | USB Clicker | Video | Given to speakers for changing slides | USB A dongle |
 | Display dongle box | Video | Hard shell case that contains almost every display adapter you could possibly think of | See below |
 | Camera + Tripod | Video | Camera feed for hardware demos | Fits any phone |
