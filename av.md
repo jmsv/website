@@ -111,7 +111,7 @@ _**Note:** Please specifically request the optional equipment if you want it_
 > I first met Will at HackTheMidlands 4.0 and after seeing what an impressive job he and the rest of Levitation Events did 
 > with the sound, lighting and visuals, I almost begged him to be a part of ManMetHacks. He was a perfect addition to the team > and the event couldn't have run smoother if we had tried thanks to his dedication and hard work. 
 > 
-> — Tom Misson, Organiser,  ManMetHacks 2020
+> — Tom Misson, Organiser,  ManMetHacks 2.0
 
 ## Pictures
 
