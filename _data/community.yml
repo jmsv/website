@@ -3,11 +3,20 @@
   description: Helping DurHack run their first under 18 hackathon, with outreach to local schools and providing mentors.
   icon: durhack-nextgen.png
 
+- title: 2020 Arkwright Engineering Scholarships Interview Board
+  date: April 2020
+  description: Interviewing for the 2020 round of Arkwright Engineering Scholarships.
+  icon: arkwright.png
+
+- title: Mentor at Hack the Burgh VI
+  date: February 2020
+  description: Helping hackers with their projects, and delivering an Android Workshop
+  icon: htb.jpg
+
 - title: Audio/Visual Partner at CovHack2020
   date: February 2020
   description: Powering the opening ceremony, workshops, mini-events, live demos, and awards.
   icon: covhack2020.svg
-
 
 - title: Mentor at Royal Hackaway v3
   date: February 2020

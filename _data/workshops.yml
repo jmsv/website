@@ -1,3 +1,31 @@
+- title: How making silly programming projects turned into a career
+  date: March 2020
+  event: Future Me programme
+  location: Crosshall Junior School Academy Trust
+  size: TBC
+  icon: crosshall.jpg
+
+- title: Android Developement in Java Workshop
+  date: Febraury 2020
+  event: Hack the Burgh VI
+  location: University of Edinburgh
+  size: TBC
+  icon: htb.jpg
+
+- title: Android Development in Java Workshop
+  date: Febraury 2020
+  event: Developer Student Clubs
+  location: University of Birmingham
+  size: 10 people
+  icon: dsc.png
+
+- title: Android Developement in Java Workshop
+  date: Febraury 2020
+  event: CovHack2020
+  location: Coventry University
+  size: 30 people
+  icon: covhack2020.svg
+
 - title: Git Workshop
   date: Febraury 2020
   event: Royal Hackaway v3
@@ -5,14 +33,7 @@
   size: 10 people
   icon: royalhackaway.png
 
-- title: Introduction to Android Development in Java Workshop
-  date: Febraury 2020
-  event: Developer Student Clubs
-  location: University of Birmingham
-  size: 30 people
-  icon: dsc.png
-
-- title: Introduction to Android Development in Kotlin Workshop
+- title: Android Development in Kotlin Workshop
   date: January 2020
   event: ManMetHacks 2.0
   location: Manchester Metropolitan University
