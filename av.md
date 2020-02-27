@@ -83,7 +83,8 @@ _**Note:** Please specifically request the optional equipment if you want it_
 
 | Event | Date | Role | Details |
 |-------|------|------|---------|
-| [CovHack2020](https://covhack.org/) | February 2020 | AV Partner | Running all A/V at the event, including all live demos. |
+| [Hack the Burgh VI](https://2020.hacktheburgh.com) | February / March 2020 | A/V Partner | Running all A/V at the event, including live demos and workshops. |
+| [CovHack2020](https://covhack.org/) | February 2020 | A/V Partner | Running all A/V at the event, including all live demos. |
 | [Royal Hackaway v3](https://royalhackaway.com/hackawayv3) | February 2020 | A/V Volunteer | Ran all 22 of their demos in their auditorium, along with awards with background music, graphics, and QLab cues. In addition to this, I created their mini event and award slides. |  
 | [ManMetHacks 2.0](https://manmethacks.com) | January 2020 | A/V Partner | Responsible for audio and video used in the opening/closing ceremony and demos, including creating assets used for the event. |
 | [Hack Cambridge 101](https://hackcambridge.com) | January 2020 | A/V Volunteer | Ran QLab cues, with MIDI triggers, and background music for finalist presentations and awards. |
